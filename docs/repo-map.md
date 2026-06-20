@@ -10,7 +10,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `Nexus` | Earlier design kits | Legacy research, preserved as reference and pointed at `Nexusv2` |
 | `Core-DEK` | Execution kit | Simulation and distributed control-plane experiments |
 | `Automation-Engines` | Action machinery | Event bridge and operator automation primitives |
-| `AI-systems-module` | AI boundary | Policy-controlled AI escalation layer |
+| `AI-systems-module` | AI boundary | Tested escalation policy: deterministic route first, model only for approved ambiguity |
 | `Analytics-core` | Measurement | Metrics, reports, and sourced decision support |
 | `Compliance-Strategy-Matrix` | Governance | Policy, control, and treasury audit ideas |
 | `CRM-Software-Layer` | CRM workflow layer | Relationship cadence and workflow state |

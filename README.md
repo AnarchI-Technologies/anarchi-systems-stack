@@ -33,6 +33,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Core-DEK` | Distributed execution kit and simulation direction |
 | `Analytics-core` | Metrics, reporting, and decision-support foundation |
 | `Automation-Engines` | Event bridges and action engines |
+| `AI-systems-module` | Tested AI escalation policy boundary |
 | `Compliance-Strategy-Matrix` | Controls, policy, and audit posture |
 | `Visual_Systems` | Deterministic brand and asset generation |
 
