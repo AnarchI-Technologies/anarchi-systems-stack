@@ -39,6 +39,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `CRM-Software-Layer` | Tested consent-aware cadence core |
 | `smart-CRM` | Legacy CRM prototype retained for reference |
 | `marketing-systems-matrix` | Tested campaign router for reviewable growth operations |
+| `Enjoyment-Scroler` | Tested public-safe scroll-session scoring prototype |
 | `Visual_Systems` | Deterministic brand and asset generation |
 | `Stress-Test-Agent` | Tested readiness scoring for resilience evidence |
 
