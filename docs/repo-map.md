@@ -13,8 +13,8 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `AI-systems-module` | AI boundary | Tested escalation policy: deterministic route first, model only for approved ambiguity |
 | `Analytics-core` | Measurement | Tested deterministic scorecards for public-safe operating metrics |
 | `Compliance-Strategy-Matrix` | Governance | Tested public-safe audit records and control planning |
-| `CRM-Software-Layer` | CRM workflow layer | Relationship cadence and workflow state |
-| `smart-CRM` | CRM prototype | Consolidate into CRM layer after tests |
+| `CRM-Software-Layer` | CRM workflow layer | Canonical tested consent-aware cadence core |
+| `smart-CRM` | CRM prototype | Legacy research pointing to `CRM-Software-Layer` |
 | `marketing-systems-matrix` | Growth operations | Campaign routing and measurement hooks |
 | `Visual_Systems` | Brand systems | Deterministic visual identity and asset generation |
 | `Stress-Test-Agent` | Resilience | Break/fix/test harnesses and scenario evidence |

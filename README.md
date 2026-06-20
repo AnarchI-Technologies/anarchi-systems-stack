@@ -35,6 +35,8 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Automation-Engines` | Tested event bridge and dry-run-first action routing |
 | `AI-systems-module` | Tested AI escalation policy boundary |
 | `Compliance-Strategy-Matrix` | Tested audit records and control planning |
+| `CRM-Software-Layer` | Tested consent-aware cadence core |
+| `smart-CRM` | Legacy CRM prototype retained for reference |
 | `Visual_Systems` | Deterministic brand and asset generation |
 
 ## What This Repo Contains
