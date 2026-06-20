@@ -1,0 +1,31 @@
+{
+  "name": "AnarchI Systems Stack",
+  "brand": "AnarchI Technologies",
+  "line": "Hardcoding freedom into the systems of tomorrow.",
+  "principle": "Deterministic systems first; real AI only when required.",
+  "layers": [
+    "signal",
+    "state",
+    "rules",
+    "execution",
+    "audit",
+    "ai_escalation",
+    "presentation"
+  ],
+  "public_safety": {
+    "allowed": [
+      "architecture",
+      "typed interfaces",
+      "synthetic fixtures",
+      "presentation-safe dashboards"
+    ],
+    "private": [
+      "credentials",
+      "runtime memory",
+      "account state",
+      "wallet secrets",
+      "unreleased decision chains"
+    ]
+  }
+}
+
