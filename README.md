@@ -32,7 +32,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Nexus` | Legacy design-kit research retained for reference |
 | `Core-DEK` | Distributed execution kit and simulation direction |
 | `Analytics-core` | Metrics, reporting, and decision-support foundation |
-| `Automation-Engines` | Event bridges and action engines |
+| `Automation-Engines` | Tested event bridge and dry-run-first action routing |
 | `AI-systems-module` | Tested AI escalation policy boundary |
 | `Compliance-Strategy-Matrix` | Controls, policy, and audit posture |
 | `Visual_Systems` | Deterministic brand and asset generation |

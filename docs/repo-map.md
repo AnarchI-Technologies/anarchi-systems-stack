@@ -9,7 +9,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `Nexusv2` | Integration hub | Canonical Nexus path with a tested deterministic pipeline |
 | `Nexus` | Earlier design kits | Legacy research, preserved as reference and pointed at `Nexusv2` |
 | `Core-DEK` | Execution kit | Simulation and distributed control-plane experiments |
-| `Automation-Engines` | Action machinery | Event bridge and operator automation primitives |
+| `Automation-Engines` | Action machinery | Tested deterministic event bridge with dry-run-first routing |
 | `AI-systems-module` | AI boundary | Tested escalation policy: deterministic route first, model only for approved ambiguity |
 | `Analytics-core` | Measurement | Metrics, reports, and sourced decision support |
 | `Compliance-Strategy-Matrix` | Governance | Policy, control, and treasury audit ideas |
