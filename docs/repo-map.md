@@ -6,8 +6,8 @@ This map explains how the standalone AnarchI repositories should be understood a
 | --- | --- | --- |
 | `hive` | Coordination engine | Clean Go service with health/status and deterministic gates |
 | `core-dashboard` | Executive dashboard | Static presentation-safe dashboard shell |
-| `Nexusv2` | Integration hub | Candidate canonical integration layer |
-| `Nexus` | Earlier design kits | Archive, fold useful concepts into `Nexusv2`, or document as experiments |
+| `Nexusv2` | Integration hub | Canonical Nexus path with a tested deterministic pipeline |
+| `Nexus` | Earlier design kits | Legacy research, preserved as reference and pointed at `Nexusv2` |
 | `Core-DEK` | Execution kit | Simulation and distributed control-plane experiments |
 | `Automation-Engines` | Action machinery | Event bridge and operator automation primitives |
 | `AI-systems-module` | AI boundary | Policy-controlled AI escalation layer |

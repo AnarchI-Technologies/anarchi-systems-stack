@@ -8,7 +8,7 @@ Hardcoding freedom into the systems of tomorrow.
 
 AnarchI builds deterministic systems so deeply layered, compiled, and context-aware that they feel intelligent. Real AI is not the hardcoded goal. It is an escalation layer used only when rules, state, and evidence determine that ambiguity remains.
 
-This repository is the clean umbrella for the system that the repaired standalone repos point toward.
+This repository is the clean umbrella for the repaired standalone repos.
 
 ## System Layers
 
@@ -28,8 +28,9 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | --- | --- |
 | `hive` | Coordination service for deterministic gates and status |
 | `core-dashboard` | Executive presentation surface |
+| `Nexusv2` | Canonical integration and event-routing platform |
+| `Nexus` | Legacy design-kit research retained for reference |
 | `Core-DEK` | Distributed execution kit and simulation direction |
-| `Nexusv2` | Integration and event-routing platform candidate |
 | `Analytics-core` | Metrics, reporting, and decision-support foundation |
 | `Automation-Engines` | Event bridges and action engines |
 | `Compliance-Strategy-Matrix` | Controls, policy, and audit posture |
@@ -39,17 +40,17 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 
 ```text
 .
-├── docs/
-│   ├── architecture.md
-│   ├── repo-map.md
-│   └── public-safety.md
-├── src/anarchi_system/
-│   ├── __init__.py
-│   └── router.py
-├── tests/
-│   └── test_router.py
-├── system_manifest.json
-└── README.md
+|-- docs/
+|   |-- architecture.md
+|   |-- repo-map.md
+|   `-- public-safety.md
+|-- src/anarchi_system/
+|   |-- __init__.py
+|   `-- router.py
+|-- tests/
+|   `-- test_router.py
+|-- system_manifest.json
+`-- README.md
 ```
 
 ## Verify
@@ -60,5 +61,4 @@ python -m unittest discover -s tests -q
 
 ## Public Safety
 
-This repo is intentionally presentation-safe. It does not include credentials, runtime memory, account state, unreleased CERBERUS decision chains, private wallet data, or the exact deterministic scoring formulas that make private systems defensible.
-
+This repo is intentionally presentation-safe. It does not include credentials, runtime memory, account state, unreleased CERBERUS decision chains, private wallet data, or exact deterministic scoring formulas.
