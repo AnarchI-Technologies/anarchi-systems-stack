@@ -43,6 +43,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Enjoyment-Scroler` | Tested public-safe scroll-session scoring prototype |
 | `Visual_Systems` | Tested deterministic brand and asset generation package |
 | `anarchi-offer-engine` | Standalone deterministic offer-ladder package for productizing assets |
+| `anarchi-proof-ledger-kit` | Standalone proof-ledger and hash-manifest tooling |
 | `Stress-Test-Agent` | Tested readiness scoring for resilience evidence |
 | `scriptsv1` | Governed operator-script registry |
 | `anarchi-core` | Dry-run-first deterministic core policy surface |
