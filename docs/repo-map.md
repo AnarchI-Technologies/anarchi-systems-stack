@@ -17,7 +17,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `Compliance-Strategy-Matrix` | Governance | Tested public-safe audit records and control planning |
 | `CRM-Software-Layer` | CRM workflow layer | Canonical tested consent-aware cadence and deterministic account planning core |
 | `smart-CRM` | CRM prototype | Legacy research pointing to `CRM-Software-Layer` |
-| `marketing-systems-matrix` | Growth operations | Tested campaign router with investor review and claim-safety routing |
+| `marketing-systems-matrix` | Growth operations | Tested campaign router plus deterministic launch plans with proof assets and blocked claims |
 | `Enjoyment-Scroler` | UX research | Tested public-safe scroll-session scoring prototype |
 | `Visual_Systems` | Brand systems | Tested deterministic visual identity package with clean build, package dry-run, and zero moderate audit findings |
 | `anarchi-offer-engine` | Offer productization | Standalone standard-library package for deterministic starter/pro/studio offer ladders |
