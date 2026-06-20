@@ -26,6 +26,12 @@
       "wallet secrets",
       "unreleased decision chains"
     ]
+  },
+  "repaired_repositories": {
+    "Core-DEK": "ff61bb7",
+    "Core-Engine": "a962013",
+    "Visual_Systems": "8d717e1",
+    "core-dashboard": "fd94e66"
   }
 }
 

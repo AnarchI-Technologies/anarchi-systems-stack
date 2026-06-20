@@ -6,10 +6,11 @@ This map explains how the standalone AnarchI repositories should be understood a
 | --- | --- | --- |
 | `hive` | Coordination engine | Clean Go service with health/status and deterministic gates |
 | `Autonomous-Agent-Hive` | Agent authority | Tested deterministic gatekeeper for agent actions |
-| `core-dashboard` | Executive dashboard | Static presentation-safe dashboard shell |
+| `core-dashboard` | Executive dashboard | Static presentation-safe dashboard shell with authored validator and proof strip |
 | `Nexusv2` | Integration hub | Canonical Nexus path with a tested deterministic pipeline |
 | `Nexus` | Earlier design kits | Legacy research, preserved as reference and pointed at `Nexusv2` |
-| `Core-DEK` | Execution kit | Simulation and distributed control-plane experiments |
+| `Core-DEK` | Execution kit | Tested deterministic event kernel with AI/risk gates; historical cluster code retained as research |
+| `Core-Engine` | Core resource engine | Rust runtime with dry-run/stress/debug launch gate and source-controlled Cargo lockfile |
 | `Automation-Engines` | Action machinery | Tested deterministic event bridge with dry-run-first routing |
 | `AI-systems-module` | AI boundary | Tested escalation policy: deterministic route first, model only for approved ambiguity |
 | `Analytics-core` | Measurement | Tested deterministic scorecards for public-safe operating metrics |
@@ -18,7 +19,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `smart-CRM` | CRM prototype | Legacy research pointing to `CRM-Software-Layer` |
 | `marketing-systems-matrix` | Growth operations | Tested campaign router with investor review and claim-safety routing |
 | `Enjoyment-Scroler` | UX research | Tested public-safe scroll-session scoring prototype |
-| `Visual_Systems` | Brand systems | Deterministic visual identity and asset generation |
+| `Visual_Systems` | Brand systems | Tested deterministic visual identity package with clean build, package dry-run, and zero moderate audit findings |
 | `Stress-Test-Agent` | Resilience | Tested readiness scoring plus existing stress harness fixtures |
 | `scriptsv1` | Script staging | Governed script registry with dry-run/risk validation |
 | `anarchi-core` | Core policy | Dry-run-first deterministic PowerShell policy surface |

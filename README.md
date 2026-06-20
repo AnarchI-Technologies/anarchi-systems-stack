@@ -28,10 +28,11 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | --- | --- |
 | `hive` | Coordination service for deterministic gates and status |
 | `Autonomous-Agent-Hive` | Tested deterministic gatekeeper for agent actions |
-| `core-dashboard` | Executive presentation surface |
+| `core-dashboard` | Executive presentation surface with proof/validation strip |
 | `Nexusv2` | Canonical integration and event-routing platform |
 | `Nexus` | Legacy design-kit research retained for reference |
-| `Core-DEK` | Distributed execution kit and simulation direction |
+| `Core-DEK` | Tested deterministic execution kernel and distributed-control research path |
+| `Core-Engine` | Rust resource/core engine with runtime-gated side effects |
 | `Analytics-core` | Tested deterministic scorecards for operating metrics |
 | `Automation-Engines` | Tested event bridge and dry-run-first action routing |
 | `AI-systems-module` | Tested AI escalation policy boundary |
@@ -40,7 +41,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `smart-CRM` | Legacy CRM prototype retained for reference |
 | `marketing-systems-matrix` | Tested campaign router for reviewable growth operations |
 | `Enjoyment-Scroler` | Tested public-safe scroll-session scoring prototype |
-| `Visual_Systems` | Deterministic brand and asset generation |
+| `Visual_Systems` | Tested deterministic brand and asset generation package |
 | `Stress-Test-Agent` | Tested readiness scoring for resilience evidence |
 | `scriptsv1` | Governed operator-script registry |
 | `anarchi-core` | Dry-run-first deterministic core policy surface |
