@@ -12,7 +12,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `Automation-Engines` | Action machinery | Tested deterministic event bridge with dry-run-first routing |
 | `AI-systems-module` | AI boundary | Tested escalation policy: deterministic route first, model only for approved ambiguity |
 | `Analytics-core` | Measurement | Tested deterministic scorecards for public-safe operating metrics |
-| `Compliance-Strategy-Matrix` | Governance | Policy, control, and treasury audit ideas |
+| `Compliance-Strategy-Matrix` | Governance | Tested public-safe audit records and control planning |
 | `CRM-Software-Layer` | CRM workflow layer | Relationship cadence and workflow state |
 | `smart-CRM` | CRM prototype | Consolidate into CRM layer after tests |
 | `marketing-systems-matrix` | Growth operations | Campaign routing and measurement hooks |

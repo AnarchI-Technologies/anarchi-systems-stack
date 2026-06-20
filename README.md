@@ -34,7 +34,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Analytics-core` | Tested deterministic scorecards for operating metrics |
 | `Automation-Engines` | Tested event bridge and dry-run-first action routing |
 | `AI-systems-module` | Tested AI escalation policy boundary |
-| `Compliance-Strategy-Matrix` | Controls, policy, and audit posture |
+| `Compliance-Strategy-Matrix` | Tested audit records and control planning |
 | `Visual_Systems` | Deterministic brand and asset generation |
 
 ## What This Repo Contains
