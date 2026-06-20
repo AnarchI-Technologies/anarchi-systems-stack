@@ -43,6 +43,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Visual_Systems` | Deterministic brand and asset generation |
 | `Stress-Test-Agent` | Tested readiness scoring for resilience evidence |
 | `scriptsv1` | Governed operator-script registry |
+| `anarchi-core` | Dry-run-first deterministic core policy surface |
 
 ## What This Repo Contains
 

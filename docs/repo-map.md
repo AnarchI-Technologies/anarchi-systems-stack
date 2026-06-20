@@ -21,6 +21,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `Visual_Systems` | Brand systems | Deterministic visual identity and asset generation |
 | `Stress-Test-Agent` | Resilience | Tested readiness scoring plus existing stress harness fixtures |
 | `scriptsv1` | Script staging | Governed script registry with dry-run/risk validation |
+| `anarchi-core` | Core policy | Dry-run-first deterministic PowerShell policy surface |
 
 ## Consolidation Rule
 
