@@ -33,7 +33,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Nexus` | Legacy design-kit research retained for reference |
 | `Core-DEK` | Tested deterministic execution kernel and distributed-control research path |
 | `Core-Engine` | Rust resource/core engine with runtime-gated side effects |
-| `Analytics-core` | Tested deterministic scorecards for operating metrics |
+| `Analytics-core` | Tested deterministic scorecards and operating reports for investor-safe metrics |
 | `Automation-Engines` | Tested event bridge and dry-run-first action routing |
 | `AI-systems-module` | Tested AI escalation policy boundary |
 | `Compliance-Strategy-Matrix` | Tested audit records and control planning |

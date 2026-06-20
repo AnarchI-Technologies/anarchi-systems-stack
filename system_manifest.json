@@ -30,6 +30,7 @@
   "repaired_repositories": {
     "Core-DEK": "ff61bb7",
     "Core-Engine": "a962013",
+    "Analytics-core": "1bf523a",
     "Visual_Systems": "8d717e1",
     "anarchi-offer-engine": "84fd7b8",
     "anarchi-proof-ledger-kit": "38c244c",
