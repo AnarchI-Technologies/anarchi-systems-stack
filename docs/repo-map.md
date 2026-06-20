@@ -15,7 +15,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `Compliance-Strategy-Matrix` | Governance | Tested public-safe audit records and control planning |
 | `CRM-Software-Layer` | CRM workflow layer | Canonical tested consent-aware cadence core |
 | `smart-CRM` | CRM prototype | Legacy research pointing to `CRM-Software-Layer` |
-| `marketing-systems-matrix` | Growth operations | Campaign routing and measurement hooks |
+| `marketing-systems-matrix` | Growth operations | Tested campaign router with investor review and claim-safety routing |
 | `Visual_Systems` | Brand systems | Deterministic visual identity and asset generation |
 | `Stress-Test-Agent` | Resilience | Break/fix/test harnesses and scenario evidence |
 

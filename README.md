@@ -37,6 +37,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Compliance-Strategy-Matrix` | Tested audit records and control planning |
 | `CRM-Software-Layer` | Tested consent-aware cadence core |
 | `smart-CRM` | Legacy CRM prototype retained for reference |
+| `marketing-systems-matrix` | Tested campaign router for reviewable growth operations |
 | `Visual_Systems` | Deterministic brand and asset generation |
 
 ## What This Repo Contains
