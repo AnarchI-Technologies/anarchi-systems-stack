@@ -17,7 +17,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `smart-CRM` | CRM prototype | Legacy research pointing to `CRM-Software-Layer` |
 | `marketing-systems-matrix` | Growth operations | Tested campaign router with investor review and claim-safety routing |
 | `Visual_Systems` | Brand systems | Deterministic visual identity and asset generation |
-| `Stress-Test-Agent` | Resilience | Break/fix/test harnesses and scenario evidence |
+| `Stress-Test-Agent` | Resilience | Tested readiness scoring plus existing stress harness fixtures |
 
 ## Consolidation Rule
 

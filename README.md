@@ -39,6 +39,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `smart-CRM` | Legacy CRM prototype retained for reference |
 | `marketing-systems-matrix` | Tested campaign router for reviewable growth operations |
 | `Visual_Systems` | Deterministic brand and asset generation |
+| `Stress-Test-Agent` | Tested readiness scoring for resilience evidence |
 
 ## What This Repo Contains
 
