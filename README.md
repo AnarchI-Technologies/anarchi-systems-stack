@@ -31,7 +31,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Nexusv2` | Canonical integration and event-routing platform |
 | `Nexus` | Legacy design-kit research retained for reference |
 | `Core-DEK` | Distributed execution kit and simulation direction |
-| `Analytics-core` | Metrics, reporting, and decision-support foundation |
+| `Analytics-core` | Tested deterministic scorecards for operating metrics |
 | `Automation-Engines` | Tested event bridge and dry-run-first action routing |
 | `AI-systems-module` | Tested AI escalation policy boundary |
 | `Compliance-Strategy-Matrix` | Controls, policy, and audit posture |
