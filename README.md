@@ -37,7 +37,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Automation-Engines` | Tested event bridge and dry-run-first action routing |
 | `AI-systems-module` | Tested AI escalation policy boundary |
 | `Compliance-Strategy-Matrix` | Tested audit records and control planning |
-| `CRM-Software-Layer` | Tested consent-aware cadence core |
+| `CRM-Software-Layer` | Tested consent-aware cadence and account-plan core |
 | `smart-CRM` | Legacy CRM prototype retained for reference |
 | `marketing-systems-matrix` | Tested campaign router for reviewable growth operations |
 | `Enjoyment-Scroler` | Tested public-safe scroll-session scoring prototype |
