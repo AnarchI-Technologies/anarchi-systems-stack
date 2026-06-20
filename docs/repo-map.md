@@ -20,6 +20,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `marketing-systems-matrix` | Growth operations | Tested campaign router with investor review and claim-safety routing |
 | `Enjoyment-Scroler` | UX research | Tested public-safe scroll-session scoring prototype |
 | `Visual_Systems` | Brand systems | Tested deterministic visual identity package with clean build, package dry-run, and zero moderate audit findings |
+| `anarchi-offer-engine` | Offer productization | Standalone standard-library package for deterministic starter/pro/studio offer ladders |
 | `Stress-Test-Agent` | Resilience | Tested readiness scoring plus existing stress harness fixtures |
 | `scriptsv1` | Script staging | Governed script registry with dry-run/risk validation |
 | `anarchi-core` | Core policy | Dry-run-first deterministic PowerShell policy surface |

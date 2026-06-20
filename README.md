@@ -42,6 +42,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `marketing-systems-matrix` | Tested campaign router for reviewable growth operations |
 | `Enjoyment-Scroler` | Tested public-safe scroll-session scoring prototype |
 | `Visual_Systems` | Tested deterministic brand and asset generation package |
+| `anarchi-offer-engine` | Standalone deterministic offer-ladder package for productizing assets |
 | `Stress-Test-Agent` | Tested readiness scoring for resilience evidence |
 | `scriptsv1` | Governed operator-script registry |
 | `anarchi-core` | Dry-run-first deterministic core policy surface |
