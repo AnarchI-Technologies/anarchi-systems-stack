@@ -27,6 +27,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | Repo | Role |
 | --- | --- |
 | `hive` | Coordination service for deterministic gates and status |
+| `Autonomous-Agent-Hive` | Tested deterministic gatekeeper for agent actions |
 | `core-dashboard` | Executive presentation surface |
 | `Nexusv2` | Canonical integration and event-routing platform |
 | `Nexus` | Legacy design-kit research retained for reference |

@@ -5,6 +5,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | Repository | Intended Responsibility | Current Direction |
 | --- | --- | --- |
 | `hive` | Coordination engine | Clean Go service with health/status and deterministic gates |
+| `Autonomous-Agent-Hive` | Agent authority | Tested deterministic gatekeeper for agent actions |
 | `core-dashboard` | Executive dashboard | Static presentation-safe dashboard shell |
 | `Nexusv2` | Integration hub | Canonical Nexus path with a tested deterministic pipeline |
 | `Nexus` | Earlier design kits | Legacy research, preserved as reference and pointed at `Nexusv2` |
