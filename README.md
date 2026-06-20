@@ -42,6 +42,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `Enjoyment-Scroler` | Tested public-safe scroll-session scoring prototype |
 | `Visual_Systems` | Deterministic brand and asset generation |
 | `Stress-Test-Agent` | Tested readiness scoring for resilience evidence |
+| `scriptsv1` | Governed operator-script registry |
 
 ## What This Repo Contains
 

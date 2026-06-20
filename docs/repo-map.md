@@ -20,6 +20,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `Enjoyment-Scroler` | UX research | Tested public-safe scroll-session scoring prototype |
 | `Visual_Systems` | Brand systems | Deterministic visual identity and asset generation |
 | `Stress-Test-Agent` | Resilience | Tested readiness scoring plus existing stress harness fixtures |
+| `scriptsv1` | Script staging | Governed script registry with dry-run/risk validation |
 
 ## Consolidation Rule
 
