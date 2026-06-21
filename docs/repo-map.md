@@ -19,7 +19,7 @@ This map explains how the standalone AnarchI repositories should be understood a
 | `smart-CRM` | CRM prototype | Legacy research pointing to `CRM-Software-Layer` |
 | `marketing-systems-matrix` | Growth operations | Tested campaign router plus deterministic launch plans with proof assets and blocked claims |
 | `Enjoyment-Scroler` | UX research | Tested public-safe scroll-session scoring prototype |
-| `Visual_Systems` | Brand systems | Tested deterministic visual identity package with clean build, package dry-run, and zero moderate audit findings |
+| `Visual_Systems` | Brand systems | Market-ready deterministic visual pack generator with assets, listing copy, checksums, offer tiers, and sale ZIP output |
 | `anarchi-offer-engine` | Offer productization | Standalone standard-library package for deterministic starter/pro/studio offer ladders |
 | `anarchi-proof-ledger-kit` | Evidence tooling | Standalone standard-library package for proof ledger entries and SHA-256 manifests |
 | `Stress-Test-Agent` | Resilience | Tested readiness scoring plus existing stress harness fixtures |

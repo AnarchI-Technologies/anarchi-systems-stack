@@ -41,7 +41,7 @@ Presentation Layer  -> dashboards, investor views, and operator controls
 | `smart-CRM` | Legacy CRM prototype retained for reference |
 | `marketing-systems-matrix` | Tested campaign router and deterministic launch-plan builder |
 | `Enjoyment-Scroler` | Tested public-safe scroll-session scoring prototype |
-| `Visual_Systems` | Tested deterministic brand and asset generation package |
+| `Visual_Systems` | Market-ready deterministic visual pack generator with sale ZIP path |
 | `anarchi-offer-engine` | Standalone deterministic offer-ladder package for productizing assets |
 | `anarchi-proof-ledger-kit` | Standalone proof-ledger and hash-manifest tooling |
 | `Stress-Test-Agent` | Tested readiness scoring for resilience evidence |
